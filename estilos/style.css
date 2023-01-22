@@ -54,6 +54,11 @@ section#redes-sociais >a >img{
 
 section#redes-sociais{
     text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.575);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 section#redes-sociais img:hover{
